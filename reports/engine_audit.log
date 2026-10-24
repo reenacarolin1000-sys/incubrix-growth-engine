@@ -1,0 +1,91 @@
+[2026-10-24T08:09:35.554143+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T08:09:35.643936+00:00] [INFO] [DISCOVERY_SEED] Loaded 25 curated seed creators | 
+[2026-10-24T08:10:45.773988+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 1168 | 
+[2026-10-24T08:10:45.819374+00:00] [INFO] [DEDUPLICATION] Deduplicated 1168 records -> 763 unique (removed 405) | 
+[2026-10-24T08:10:45.859506+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 494 qualified, 269 rejected | 
+[2026-10-24T08:12:54.081742+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T08:12:54.099049+00:00] [INFO] [DISCOVERY_SEED] Loaded 25 curated seed creators | 
+[2026-10-24T08:14:24.944762+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 225 | 
+[2026-10-24T08:14:24.967421+00:00] [INFO] [DEDUPLICATION] Deduplicated 225 records -> 222 unique (removed 3) | 
+[2026-10-24T08:14:24.998880+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 168 qualified, 54 rejected | 
+[2026-10-24T08:39:31.127454+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T08:39:31.199267+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T08:40:01.452499+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T08:40:01.516351+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T08:40:01.597089+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1191 qualified, 94 rejected | 
+[2026-10-24T08:40:25.204912+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T08:40:25.472513+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T08:40:26.982609+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T08:40:27.017018+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.91 minutes. Qualified: 1113 | 
+[2026-10-24T08:42:34.929573+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T08:42:34.996935+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T08:42:50.308074+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T08:42:50.352545+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T08:42:50.405357+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1148 qualified, 137 rejected | 
+[2026-10-24T08:43:12.305543+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T08:43:12.519383+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T08:43:14.028600+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T08:43:14.059327+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.63 minutes. Qualified: 1084 | 
+[2026-10-24T09:00:44.271000+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T09:00:44.312455+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T09:00:51.686304+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T09:00:51.738242+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T09:00:51.787436+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1148 qualified, 137 rejected | 
+[2026-10-24T09:01:13.562316+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T09:01:13.729747+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T09:01:15.366744+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T09:01:15.400999+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.49 minutes. Qualified: 1084 | 
+[2026-10-24T09:21:04.816333+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T09:21:04.927642+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T09:21:14.306741+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T09:21:14.362846+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T09:21:14.428598+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1134 qualified, 151 rejected | 
+[2026-10-24T09:21:36.729655+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T09:21:36.886533+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T09:21:38.507925+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T09:21:38.549949+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.53 minutes. Qualified: 1082 | 
+[2026-10-24T09:21:52.969526+00:00] [INFO] [RUN_START] Initiating pipeline run (type=refresh, target=1000) | 
+[2026-10-24T09:21:53.029317+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T09:22:02.951839+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T09:22:03.022156+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T09:22:03.100916+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1134 qualified, 151 rejected | 
+[2026-10-24T09:22:24.507512+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T09:22:24.646809+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T09:22:26.171996+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T09:22:26.206941+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.53 minutes. Qualified: 1082 | 
+[2026-10-24T09:25:53.848390+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T09:25:53.926890+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T09:26:02.712529+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T09:26:02.765036+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T09:26:02.832118+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1112 qualified, 173 rejected | 
+[2026-10-24T09:26:24.623673+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T09:26:24.777930+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T09:26:26.174338+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T09:26:26.210644+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.52 minutes. Qualified: 1065 | 
+[2026-10-24T09:28:14.608184+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T09:28:14.706584+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T09:28:25.503180+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T09:28:25.553941+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1285 unique (removed 1228) | 
+[2026-10-24T09:28:25.636457+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1104 qualified, 181 rejected | 
+[2026-10-24T09:28:46.943488+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T09:28:47.184333+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T09:28:48.893155+00:00] [INFO] [WORKBOOK_COMPLETED] Completed submission workbook saved at C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx | 
+[2026-10-24T09:28:48.931923+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.54 minutes. Qualified: 1059 | 
+[2026-10-24T15:46:38.086678+00:00] [INFO] [RUN_START] Initiating pipeline run (type=refresh, target=1000) | 
+[2026-10-24T15:46:38.195253+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T15:46:50.932930+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T15:46:51.021834+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1293 unique (removed 1220) | 
+[2026-10-24T15:46:51.248517+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1102 qualified, 191 rejected | 
+[2026-10-24T15:47:21.340055+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T15:47:21.707573+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T15:47:23.336848+00:00] [ERROR] [WORKBOOK_ERROR] Error completing workbook: [Errno 13] Permission denied: 'C:\\Users\\carolin\\OneDrive\\Desktop\\IncuBrix_Growth_Engine_Submission\\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx' | 
+[2026-10-24T15:47:23.386071+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.73 minutes. Qualified: 1055 | 
+[2026-10-24T15:51:52.862892+00:00] [INFO] [RUN_START] Initiating pipeline run (type=normal, target=1000) | 
+[2026-10-24T15:51:52.982815+00:00] [INFO] [DISCOVERY_SEED] Loaded 1117 curated seed creators | 
+[2026-10-24T15:52:00.957589+00:00] [INFO] [DISCOVERY_COMPLETE] Total raw candidates harvested: 2513 | 
+[2026-10-24T15:52:01.031807+00:00] [INFO] [DEDUPLICATION] Deduplicated 2513 records -> 1293 unique (removed 1220) | 
+[2026-10-24T15:52:01.266864+00:00] [INFO] [VERIFICATION_COMPLETE] Verified leads: 1102 qualified, 191 rejected | 
+[2026-10-24T15:52:30.610631+00:00] [INFO] [OUTREACH_GENERATED] Generated complete 3-step outreach sequences for 25 Priority A leads | 
+[2026-10-24T15:52:30.968906+00:00] [INFO] [CSV_EXPORTED] Exported CRM-ready dataset to C:\Users\carolin\OneDrive\Desktop\IncuBrix_Growth_Engine_Submission\output\leads.csv | 
+[2026-10-24T15:52:32.622597+00:00] [ERROR] [WORKBOOK_ERROR] Error completing workbook: [Errno 13] Permission denied: 'C:\\Users\\carolin\\OneDrive\\Desktop\\IncuBrix_Growth_Engine_Submission\\IncuBrix_2027_Growth_Engineer_Option_1_Submission_Workbook_Completed.xlsx' | 
+[2026-10-24T15:52:32.668272+00:00] [INFO] [RUN_COMPLETE] Pipeline completed successfully in 0.64 minutes. Qualified: 1055 | 
